@@ -98,7 +98,7 @@
     "type": "video",
     "link_count": 10000,
     "cover_url": "https://raw.githubusercontent.com/taugin/flashres/master/themeres/neon_preview.png",
-    "theme_url": "https://raw.githubusercontent.com/taugin/flashres/master/themeres/neon.gif",
+    "theme_url": "https://raw.githubusercontent.com/taugin/flashres/master/themeres/neon.mp4",
     "acceptUrl": "",
     "rejectUrl": ""
   },
@@ -107,7 +107,7 @@
     "type": "video",
     "link_count": 10000,
     "cover_url": "https://raw.githubusercontent.com/taugin/flashres/master/themeres/palette_preview.png",
-    "theme_url": "https://raw.githubusercontent.com/taugin/flashres/master/themeres/palette.gif",
+    "theme_url": "https://raw.githubusercontent.com/taugin/flashres/master/themeres/palette.mp4",
     "acceptUrl": "",
     "rejectUrl": ""
   }
